@@ -32,6 +32,13 @@ df = tribble(
   "Wetland",60
 )
 
+df1 = df %>%
+  mutate(id=row_number(),
+         angle=51.4285*id,
+         radians=angle*pi/180,
+         x0=n*cos(radians),
+         y0=n*sin(radians))
+
 # Colors
 met.brewer("Archambault", 7)
 
