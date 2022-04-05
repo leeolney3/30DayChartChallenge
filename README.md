@@ -8,8 +8,11 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 ### 2. pictogram ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/02_pictogram.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/02_pictogram.png" width="70%">
 
-### 2. historical ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/03_historical.R))
+### 3. historical ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/03_historical.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/03_historical.png" width="70%">
 
-### 2. flora ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/04_flora.R))
+### 4. flora ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/04_flora.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/04_flora.png" width="70%">
+
+### 5. slope ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/05_slope.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/05_slope.png">
