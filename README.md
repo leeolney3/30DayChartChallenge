@@ -1,6 +1,6 @@
 # 30DayChartChallenge 2022
 
-My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022), a data visualization challenge created by Cédric Scherer [@CedScherer](https://twitter.com/CedScherer) and Dr. Dominic Royé [@dr_xeo](https://twitter.com/dr_xeo). 
+My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022), a data visualization challenge created by Cédric Scherer [@CedScherer](https://twitter.com/CedScherer) and Dr. Dominic Royé [@dr_xeo](https://twitter.com/dr_xeo). More about the #30DayChartChallenge [here](https://twitter.com/30DayChartChall).
 
 ### 1. part-to-whole ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/01_part-to-whole.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/01_part-to-whole.png" width="70%">
@@ -16,3 +16,6 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 
 ### 5. slope ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/05_slope.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/05_slope.png">
+
+### 6. data day: Our World In Data ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/06_OWID.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/06_OWID_cereal.png" width="49%"><img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/06_OWID_maize.png" width="49%">
