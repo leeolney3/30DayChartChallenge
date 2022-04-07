@@ -19,3 +19,6 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 
 ### 6. data day: Our World In Data ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/06_OWID.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/06_OWID_cereal.png" width="49%"><img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/06_OWID_maize.png" width="49%">
+
+### 7. physical ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/07_physical.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/07_physical.png" width="70%">
