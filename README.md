@@ -22,3 +22,6 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 
 ### 7. physical ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/07_physical.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/07_physical.png" width="70%">
+
+### 10. experimental ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/10_experimental.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/10_experimental.png">
