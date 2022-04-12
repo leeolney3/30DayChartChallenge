@@ -28,3 +28,6 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 
 ### 11. circular ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/11_circular.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular.png" width="70%">
+
+### 12. (distribution) theme day: The Economist ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/12_economist.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/12_economist.png" width="70%">
