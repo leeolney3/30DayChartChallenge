@@ -33,4 +33,4 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/12_economist.png" width="70%">
 
 ### 19. (time series) global change ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/19_global-change.R))
-<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/19_global-change.png" width="70%">
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/19_global-change.png">
