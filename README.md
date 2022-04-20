@@ -18,6 +18,8 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/05_slope.png">
 
 ### 6. data day: Our World In Data ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/06_OWID.R))
+h/t to Benjamin Nowak @BjnNowak suggestion on using Maize data 
+
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/06_OWID_cereal.png" width="49%"><img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/06_OWID_maize.png" width="49%">
 
 ### 7. physical ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/07_physical.R))
@@ -27,7 +29,11 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/10_experimental.png" width="70%">
 
 ### 11. circular ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/11_circular.R))
-<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular.png" width="45%"><img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular-2.png" width="54%">
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular.png" width="49%">
+
+### 12. circular attempt 2 ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/11_circular.R))
+h/t to Cédric Scherer @CedScherer's input on circular distribution prompt
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular-2.png" width="49%">
 
 ### 12. theme day: The Economist ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/12_economist.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/12_economist.png" width="70%">
