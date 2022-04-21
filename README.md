@@ -2,6 +2,15 @@
 
 My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022), a data visualization challenge created by Cédric Scherer [@CedScherer](https://twitter.com/CedScherer) and Dr. Dominic Royé [@dr_xeo](https://twitter.com/dr_xeo). More about the #30DayChartChallenge [here](https://twitter.com/30DayChartChall).
 
+| Comparisons | Distributions | Relationships | Timeseries | Uncertainties |
+|---|---|---|---|---|
+| 1. part-to-whole | 7. physical | 13. correlation | 19. global change | 25. trend |
+| 2. pictogram | 8. mountains | 14. 3-dimensional | 20. new tool | 26. interactive |
+| 3. historical | 9. statistics | 15. multivariate | 21. down/upwards | 27. future |
+| 4. flora | 10. experimental | 16. environment | 22. animation | 28. deviations |
+| 5. slope | 11. circular | 17. connections | 23. tiles | 29. storytelling |
+| 6. data day: OWID | 12. theme day: The economist | 18. data day: OECD | 24. theme day: Financial Times | 30. data day:  UN population |
+
 ### 1. part-to-whole ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/01_part-to-whole.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/01_part-to-whole.png" width="70%">
 
@@ -18,6 +27,8 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/05_slope.png">
 
 ### 6. data day: Our World In Data ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/06_OWID.R))
+h/t to Benjamin Nowak @BjnNowak suggestion on using Maize data 
+
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/06_OWID_cereal.png" width="49%"><img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/06_OWID_maize.png" width="49%">
 
 ### 7. physical ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/07_physical.R))
@@ -27,10 +38,20 @@ My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/10_experimental.png" width="70%">
 
 ### 11. circular ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/11_circular.R))
-<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular.png" width="70%">
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular.png" width="49%">
 
-### 12. (distribution) theme day: The Economist ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/12_economist.R))
+### 12. circular attempt 2 ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/11_circular.R))
+h/t to Cédric Scherer @CedScherer's input on circular distribution prompt
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular-2.png" width="49%">
+
+### 12. theme day: The Economist ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/12_economist.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/12_economist.png" width="70%">
 
-### 19. (time series) global change ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/19_global-change.R))
-<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/19_global-change.png" width="70%">
+### 18. data day: OECD ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/18_oecd.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/18_oecd.png" width="70%">
+
+### 19. global change ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/19_global-change.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/19_global-change.png">
+
+### 20. new tool 
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/20_new_tool.png" width="70%">
