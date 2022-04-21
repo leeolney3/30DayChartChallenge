@@ -2,15 +2,6 @@
 
 My contributions to the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022), a data visualization challenge created by Cédric Scherer [@CedScherer](https://twitter.com/CedScherer) and Dr. Dominic Royé [@dr_xeo](https://twitter.com/dr_xeo). More about the #30DayChartChallenge [here](https://twitter.com/30DayChartChall).
 
-| Comparisons | Distributions | Relationships | Timeseries | Uncertainties |
-|---|---|---|---|---|
-| 1. part-to-whole | 7. physical | 13. correlation | 19. global change | 25. trend |
-| 2. pictogram | 8. mountains | 14. 3-dimensional | 20. new tool | 26. interactive |
-| 3. historical | 9. statistics | 15. multivariate | 21. down/upwards | 27. future |
-| 4. flora | 10. experimental | 16. environment | 22. animation | 28. deviations |
-| 5. slope | 11. circular | 17. connections | 23. tiles | 29. storytelling |
-| 6. data day: OWID | 12. theme day: The economist | 18. data day: OECD | 24. theme day: Financial Times | 30. data day:  UN population |
-
 ### 1. part-to-whole ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/01_part-to-whole.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/01_part-to-whole.png" width="70%">
 
@@ -53,5 +44,5 @@ h/t to Cédric Scherer @CedScherer's input on circular distribution prompt
 ### 19. global change ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/19_global-change.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/19_global-change.png">
 
-### 20. new tool 
-<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/20_new_tool.png" width="70%">
+### 21. down/upwards ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/21_down-upwards.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/21_down-upwards.png" width="70%">
