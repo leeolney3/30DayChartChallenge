@@ -44,8 +44,11 @@ h/t to Cédric Scherer @CedScherer's input on circular distribution prompt
 ### 19. global change ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/19_global-change.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/19_global-change.png">
 
-### 21. down/upwards ([see visualization in Datawrapper](https://www.datawrapper.de/_/48PEV/))
+### 20. down/upwards ([see visualization in Datawrapper](https://www.datawrapper.de/_/48PEV/))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/20_new_tool.png" width="70%">
 
 ### 21. down/upwards ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/21_down-upwards.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/21_down-upwards.png" width="70%">
+
+### 23. tiles ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/23_tiles.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/23_tiles.png" width="70%">
