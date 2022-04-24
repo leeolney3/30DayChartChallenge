@@ -55,3 +55,4 @@ h/t to Cédric Scherer @CedScherer's input on circular distribution prompt
 
 ### 24. theme day: Financial Times ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/24_financial-times.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/24_financial-times.png">
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/24_financial-times_2.png">
