@@ -52,3 +52,6 @@ h/t to Cédric Scherer @CedScherer's input on circular distribution prompt
 
 ### 23. tiles ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/23_tiles.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/23_tiles.png" width="70%">
+
+### 24. theme day: Financial Times ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/24_financial-times.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/24_financial-times.png">
