@@ -47,13 +47,12 @@ h/t to Benjamin Nowak @BjnNowak suggestion on using Maize data
 </p>
 
 ### 11. circular ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/11_circular.R))
-h/t to Cédric Scherer @CedScherer's input on circular distribution prompt
 <p align="center">
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular.png" width="49%">
 </p>
 
 #### 11. circular - attempt 2 ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/11_circular.R))
-
+h/t to Cédric Scherer @CedScherer's input on circular distribution prompt
 <p align="center">
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/11_circular-2.png" width="49%">
 </p>
