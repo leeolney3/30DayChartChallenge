@@ -1,6 +1,6 @@
 # 30DayChartChallenge 2022
 
-A repository containing code for the #30DayChartChallenge in April 2022. [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022) is a data visualization challenge created by Cédric Scherer [@CedScherer](https://twitter.com/CedScherer) and Dr. Dominic Royé [@dr_xeo](https://twitter.com/dr_xeo). More about the #30DayChartChallenge [on Twitter](https://twitter.com/30DayChartChall).
+This repository contains code for the #30DayChartChallenge contributions in April 2022. [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022) is a data visualization challenge created by Cédric Scherer [@CedScherer](https://twitter.com/CedScherer) and Dr. Dominic Royé [@dr_xeo](https://twitter.com/dr_xeo). More about the #30DayChartChallenge [on Twitter](https://twitter.com/30DayChartChall).
 
 <img src="https://github.com/30DayChartChallenge/Edition2022/blob/main/img/prompts-full.png" width="60%">
 
