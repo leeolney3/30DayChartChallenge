@@ -60,3 +60,7 @@ h/t to Cédric Scherer @CedScherer's input on circular distribution prompt
 ### 24. theme day: Financial Times ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/24_financial-times.R))
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/24_financial-times.png" width="70%">
 <img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/24_financial-times_2.png" width="70%">
+
+### 30. data day: UN Population ([code](https://github.com/leeolney3/30DayChartChallenge/blob/main/scripts/30_unpop.R))
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/30_unpop_p1.png" width="70%">
+<img src="https://github.com/leeolney3/30DayChartChallenge/blob/main/plots/30_unpop_p2.png" width="70%">
